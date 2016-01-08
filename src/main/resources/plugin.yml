@@ -1,5 +1,5 @@
 name: Dynmap-PreciousStones
 main: net.dandielo.dynmap.preciousstones.DynmapPreciousStones
-version: 1.2.1 Release
+version: 1.3
 author: dandielo
 depend: [ dynmap, PreciousStones ]
